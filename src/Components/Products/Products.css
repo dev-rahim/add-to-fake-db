@@ -1,0 +1,6 @@
+.card-container {
+    display: grid;
+    flex-wrap: wrap;
+    grid-template-columns: repeat(3, 1fr);
+    /* grid-gap: 2px; */
+}
